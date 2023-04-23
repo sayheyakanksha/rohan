@@ -1,7 +1,6 @@
 /*
-	Strata by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Portfolio - Rohan | Front-end Developer
+	https://github.com/rohanKumr
 */
 
 (function($) {
